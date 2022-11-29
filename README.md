@@ -1,4 +1,4 @@
-# Green-Energy- Demand Forecast
+# Green-Energy Demand - Forecast
 Forecast hourly energy demand for the next three years based on historical time series data
 
 Green,a country well known for its greenery and natural resources, is working towards the betterment of the environment, natural resources, and health of citizens. Over the past few years, Green has improvised its natural resources by enabling the technologies for a safer future.
